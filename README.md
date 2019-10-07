@@ -4,6 +4,7 @@ fbprophet
 pandas
 flask
 metaplot
+wtform
 
 Live https://fb-price-prediction-flask.herokuapp.com/
 
