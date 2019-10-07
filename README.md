@@ -12,3 +12,7 @@ U/P = test / 12345678
 To register you need to fill Matercard with "42 x 10".....
 Plese choose start and end date between 1 years or less, otherwise heroku will showing error,  and size will exceed.
 This the midterm for Machine Learning Course.
+
+Learning to Build a User Login System With Flask-Login, Flask-WTForms, Flask-Bootstrap from
+https://www.youtube.com/watch?v=8aTnmsDMldY
+
